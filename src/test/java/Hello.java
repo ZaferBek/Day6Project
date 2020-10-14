@@ -4,6 +4,8 @@ public class Hello {
         System.out.println("Hello EU3");
         //About to add some lines of code
         //EU3 is the best
+        //EU3 is awesome
+
 
     }
 }
